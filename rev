@@ -1,0 +1,17 @@
+deployment.apps/guestbook with revision #4
+Pod Template:
+  Labels:	app=guestbook
+	pod-template-hash=bb89c8458
+  Containers:
+   guestbook:
+    Image:	us.icr.io/sn-labs-mudassarkhok/guestbook:v1
+    Port:	3000/TCP
+    Host Port:	0/TCP
+    Limits:
+      cpu:	5m
+    Requests:
+      cpu:	2m
+    Environment:	<none>
+    Mounts:	<none>
+  Volumes:	<none>
+

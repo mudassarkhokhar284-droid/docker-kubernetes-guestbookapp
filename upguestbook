@@ -1,0 +1,18 @@
+The push refers to repository [us.icr.io/sn-labs-mudassarkhok/guestbook]
+5f70bf18a086: Preparing
+010949d2221f: Preparing
+867fc218e369: Preparing
+c37673a0bffb: Preparing
+f34a466f3bf6: Preparing
+bb259bcf4fd1: Preparing
+548a79621a42: Preparing
+548a79621a42: Waiting
+bb259bcf4fd1: Waiting
+010949d2221f: Layer already exists
+867fc218e369: Layer already exists
+5f70bf18a086: Layer already exists
+f34a466f3bf6: Layer already exists
+c37673a0bffb: Layer already exists
+bb259bcf4fd1: Layer already exists
+548a79621a42: Layer already exists
+v1: digest: sha256:e7dd298651ed135f35380a4868f745f3beb40f6bffdb9c53ebf3520f93f0eabf size: 1776
